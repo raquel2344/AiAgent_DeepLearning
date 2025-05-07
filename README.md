@@ -1,7 +1,5 @@
 # AiAgent_DeepLearning
 
-# AI Agent Workflow for n8n
-
 This repository contains the exported JSON for an AI Agent built using the [n8n](https://n8n.io/) automation platform. The agent is capable of managing Google Calendar events, handling contact information, storing user preferences, and responding intelligently through OpenAI’s language model integration.
 
 ---
